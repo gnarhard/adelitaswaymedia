@@ -1,0 +1,1 @@
+<?php include 'resources/views/layout/app.php'; ?>
